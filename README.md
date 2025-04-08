@@ -145,5 +145,14 @@ For more information about the solution, reach out: [AI_Maven](https://zindi.afr
 #### Overview
 GradScope was built using streamlit, a python library for creating interactive web applications. This section presents a video that describes how to utilize the app to make predictions.
 
+Some Images of GradScope
+
 <img width="960" alt="Gradscope overview" src="https://github.com/user-attachments/assets/5bda5842-3b6a-45db-b783-1a8138c100fa" />
 
+<img width="960" alt="GradScope showcase 3 - f" src="https://github.com/user-attachments/assets/9824752a-7279-4966-b487-1292aa23e50f" />
+
+<img width="959" alt="GradScope showcase 4 -f" src="https://github.com/user-attachments/assets/2158c894-4d16-44f5-bee6-5fbc018e83e9" />
+
+<img width="960" alt="GradScope showcase 5-f" src="https://github.com/user-attachments/assets/1698b5a0-9119-49e6-a13e-614b88e63ff9" />
+
+Below is a video that shows how to utilize GradScope
