@@ -155,4 +155,10 @@ Some Images of GradScope
 
 <img width="960" alt="GradScope showcase 5-f" src="https://github.com/user-attachments/assets/1698b5a0-9119-49e6-a13e-614b88e63ff9" />
 
+<img width="775" alt="GradScope showcase" src="https://github.com/user-attachments/assets/38f8ef15-5c6b-4eec-a933-81e6ae96817f" />
+
+<img width="662" alt="Gradscope showcase2" src="https://github.com/user-attachments/assets/3707baa2-db39-470c-92bf-c4c9952337cf" />
+
 Below is a video that shows how to utilize GradScope
+
+[GradScope Video](https://github.com/obinna-Muonanu/GradScope/blob/main/streamlit-GradScope-2025-04-08-11-04-34.webm)
